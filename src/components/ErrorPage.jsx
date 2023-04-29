@@ -1,3 +1,5 @@
+// Error por alguna falla de router-dom
+
 import { useRouteError } from "react-router-dom";
 
 export default function errorPage() {
