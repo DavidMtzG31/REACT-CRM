@@ -1,4 +1,3 @@
-// Error del formulario DESDE HP
 
 function Error( {children} ) {
   return (
