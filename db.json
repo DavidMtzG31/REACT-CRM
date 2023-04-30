@@ -1,25 +1,20 @@
 {
   "clientes": [
     {
-      "id": 1,
-      "nombre": "Juan",
-      "telefono": 102013313,
+      "nombre": "JuanPVTO",
+      "empresa": "Codigo Con Juan",
       "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
+      "telefono": "102013313",
+      "notas": "nUEVA NOTA",
+      "id": 1
     },
     {
       "id": 2,
-      "nombre": "Karen",
-      "telefono": 138198313,
+      "nombre": "Karencita",
+      "telefono": "138198313",
       "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 3,
-      "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
+      "empresa": "Codigo Con Juand",
+      "notas": "df"
     },
     {
       "id": 4,
@@ -56,8 +51,16 @@
       "empresa": "Yo",
       "email": "correo@delmio.com",
       "telefono": "21615723",
-      "notas": "Quiere pene",
+      "notas": "Quiere una página",
       "id": 8
+    },
+    {
+      "nombre": "Fer",
+      "empresa": "FCA",
+      "email": "gmail@mail.com",
+      "telefono": "5585671248",
+      "notas": "Duda",
+      "id": 9
     }
   ]
 }
